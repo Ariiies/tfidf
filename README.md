@@ -6,4 +6,4 @@ Like the bag-of-words model, it models a document as a multiset of words, withou
 It is a refinement over the simple bag-of-words model, by allowing the weight of words to depend on the rest of the corpus. 
 
 This project can be used in others like projects of machine learning, sentiment analysis or like seachers based on smilitud by cosene.
-For proper funtionating of this project is neeeded another one called [Corpy](https://www.github.com/Ariies/corpy) and numpy too.
+For proper funtionating of this project is neeeded another one called [Corpy](https://www.github.com/Ariiies/corpy) and numpy too.
